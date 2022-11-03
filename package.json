@@ -1,0 +1,23 @@
+{
+  "name": "micro-plugin",
+  "version": "1.0.0",
+  "description": "Frontend micro modules dynamic import plugin",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server . ",
+    "dev": "cd app/vite-app && yarn dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waynelwz/micro-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waynelwz/micro-plugin/issues"
+  },
+  "homepage": "https://github.com/waynelwz/micro-plugin#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

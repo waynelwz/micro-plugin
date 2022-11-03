@@ -18,9 +18,3 @@ fetch("/plugins/plugins.json").then(async (r) => {
     </React.StrictMode>
   );
 });
-
-// ReactDOM.createRoot(document.getElementById('root')).render(
-//   <React.StrictMode>
-//     <App />
-//   </React.StrictMode>
-// )
